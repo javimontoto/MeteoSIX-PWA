@@ -1,0 +1,27 @@
+/** 
+*** GENERALES
+**/
+.general-container {
+	margin-top: 2rem;
+}
+
+.center{
+	display: flex !important;
+	justify-content: center;
+}
+
+.derecha{
+	display: flex !important;
+	justify-content: flex-end;
+}
+
+.text-white {
+	color: white !important;
+}
+
+.img-loading{
+	width: 30%;
+	display:block;
+	margin:auto;
+}
+/** fin GENERALES **/
