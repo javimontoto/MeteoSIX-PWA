@@ -1,0 +1,29 @@
+.navbar {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+
+.navbar-brand{
+	font-weight: bold;
+	font-size: 2rem !important;
+	padding: 0 0 0 0 !important;
+}
+
+.active {
+	border-bottom: 3px solid yellow;
+	background: #bd4116;
+}
+
+.nav-link{
+	font-size: 1rem !important;
+	padding-top: 1.1rem !important;
+	/*padding-bottom: 1.1rem !important;*/
+}
+
+.nav-item:hover{
+	background: #bd4116 !important;
+}
+
+.dropdown-menu .dropdown-item {
+	font-size: 1rem !important;
+}

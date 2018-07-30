@@ -1,0 +1,49 @@
+.section-header{
+	margin-bottom: 1.2rem;
+	padding-bottom: 0.1rem;
+	border-bottom: 1px solid #239fe5;
+	overflow: hidden;
+}
+
+.section-header-text{
+	float: left;
+}
+
+.section-header h1{
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #239fe5;
+	text-shadow: 0px 4px 12px;
+}
+
+.meteo-form{
+	margin-left: 0.5rem;
+}
+
+.form-group{
+	float: left;
+	margin-right: 5px;
+}
+
+.day-title {
+	font-size: 1rem;
+	text-transform: capitalize;
+	font-weight: bold;
+}
+
+.place-title {
+	display: block;
+}
+
+.fav-place {
+	background: white;
+	font-size: 1.5rem;
+	padding-bottom: 1rem;
+	color: #239fe5;
+}
+
+#fav{
+	color: yellow;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #239fe5;
+}
