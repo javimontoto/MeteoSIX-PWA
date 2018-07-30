@@ -1,11 +1,12 @@
 {
-  "name": "meteosix-pwa",
-  "short_name": "meteosix-pwa",
-  "theme_color": "#1976d2",
+  "name"            : "MeteoSIX (PWA)",
+  "short_name"      : "MeteoSIX",
+  "description"     : "Aplicación PWA para consulta de meteorología de Galicia",
+  "theme_color"     : "#1976d2",
   "background_color": "#fafafa",
-  "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "display"         : "standalone",
+  "scope"           : "/",
+  "start_url"       : "/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
