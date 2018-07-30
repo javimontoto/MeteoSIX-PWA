@@ -18,6 +18,8 @@ import { MeteoPipe } from './pipes/meteo.pipe';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { MeteoComponent } from './components/meteo/meteo.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 
 @NgModule({
@@ -31,7 +33,8 @@ import { MeteoComponent } from './components/meteo/meteo.component';
     BrowserModule,
     FormsModule,
     HttpClientModule,
-    routing
+    routing,
+    ServiceWorkerModule.register('/ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
   bootstrap: [AppComponent]
