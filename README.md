@@ -1,10 +1,6 @@
 # O Tempo (PWA)
 Aplicación para consultar la predicción meteorológica para Galicia.
 
-## Web
-
-[Entrar en MiREDE](http://52.14.220.80/)
-
 ## Características
 
 * Consultar la predicción meteológica 
