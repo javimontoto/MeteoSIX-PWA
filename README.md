@@ -1,27 +1,26 @@
-# MeteosixPwa
+# O Tempo (PWA)
+Aplicación para consultar la predicción meteorológica para Galicia.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+## Web
 
-## Development server
+[Entrar en MiREDE](http://52.14.220.80/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Características
 
-## Code scaffolding
+* Consultar la predicción meteológica 
+* Buscador de lugares.
+* Guardar/borrar lugares favoritos.
+* Versión PWA para facilidad de uso.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologías empleadas
 
-## Build
+* **PWA (Progressive Web App)**, permite la instalación en Android, iOS y Windows, simulando una aplicación nativa.
+* **JavaScript**, uno de los lenguajes de programación mas populares de la web.
+* **Angular6**, el framework impulsado por Google cuyo propósito es el desarrollo de aplicaciones web SPA (Single page applications). Reactivo e instantáneo.
+* **jQuery**, el framework frontend imprescindible y más conocido para JavaScript.
+* **Bootstrap**, el framework CSS y JS más estandarizado e imprescindible actualmente para la construcción de interfaces de usuario.
+* **HTML5**, **CSS3**, etc.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Autor
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* **Javi Montoto** - [javimontoto](https://github.com/javimontoto)

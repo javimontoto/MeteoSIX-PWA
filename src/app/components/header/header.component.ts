@@ -16,7 +16,7 @@ export class HeaderComponent implements OnInit {
 		private _route      : ActivatedRoute,
 		private _router     : Router,
 		) { 
-		this.title = "MeteoSIX (PWA)";
+		this.title = "O TEMPO (PWA)";
 		this.url = GLOBAL.url;
 	}
 

@@ -9,6 +9,10 @@
 	padding: 0 0 0 0 !important;
 }
 
+.navbar>.container, .navbar>.container-fluid{
+	justify-content: center;
+}
+
 .active {
 	border-bottom: 3px solid yellow;
 	background: #bd4116;
